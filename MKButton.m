@@ -8,8 +8,6 @@
 
 #import "MKButton.h"
 #import <QuartzCore/QuartzCore.h>
-#import "UIImage+MKAdditions.h"
-#import "UIButton+MKAdditions.h"
 
 #define kMetroButtonSelectedAlpha 0.5
 #define kMetroButtonDisabledAlpha 0.8
