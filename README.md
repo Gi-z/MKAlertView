@@ -1,7 +1,7 @@
 MKAlertView
 ===========
 
-A UI style UIAlertView replacement with 3D animations.
+A Metro UI style UIAlertView replacement with 3D animations.
 
 ![demo image](http://i.imgur.com/OPjGvbA.jpg)
 
