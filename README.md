@@ -8,7 +8,7 @@ A Metro UI style UIAlertView replacement with 3D animations.
 ##Requirements
 
 MKAlertView requires QuartzCore to be linked to the project, and has been tested to iOS 5+.
-MKAlertView also works best with the SourceSansPro typeset, and uses it by default. SourceSansPro is made by Adobe, is available freely and can be download from here. http://sourceforge.net/projects/sourcesans.adobe/
+MKAlertView also works best with the SourceSansPro typeset, and uses it by default. SourceSansPro is made by Adobe, is available freely and can be downloaded from here. http://sourceforge.net/projects/sourcesans.adobe/
 
 ##Usage
 
