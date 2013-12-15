@@ -189,6 +189,7 @@
     [UIView setAnimationDidStopSelector:@selector(hideMain)];
     view.alpha = 0;
     mainWindow.alpha = 0;
+    [UIView commitAnimations];
 }
 
 - (void)hideMain
