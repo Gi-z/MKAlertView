@@ -5,12 +5,12 @@ A Metro UI style UIAlertView replacement with 3D animations.
 
 ![demo image](http://i.imgur.com/OPjGvbA.jpg)
 
-##Requirements
+## Requirements
 
 MKAlertView requires QuartzCore to be linked to the project, and has been tested to iOS 5+.
 MKAlertView also works best with the SourceSansPro typeset, and uses it by default. SourceSansPro is made by Adobe, is available freely and can be downloaded from here. http://sourceforge.net/projects/sourcesans.adobe/
 
-##Usage
+## Usage
 
 MKAlertView can be instantiated with the following lines.
 
@@ -24,7 +24,7 @@ The following delegate methods are available.
     - (void)alertViewDismissed:(MKAlertView *)alertView;
     - (void)alertViewConfirmed:(MKAlertView *)alertView withText:(NSString *)enteredText;
 
-##License
+## License
 
 MetroKit (the classes MKButton and MKTextField) were originally written by Shawn Wall.
 MKAlertView is freely available, provided credits are made to "Glenn Forbes".
